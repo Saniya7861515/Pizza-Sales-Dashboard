@@ -8,7 +8,7 @@ This project is a dynamic and interactive dashboard that analyzes pizza sales da
 
 ---
 
-## 🎯 Key Metrics (KPIs)
+##  Key Metrics (KPIs)
 | Metric                    | Value        |
 |--------------------------|--------------|
 | Total Revenue            | ₹817.86K     |
@@ -50,7 +50,7 @@ This project is a dynamic and interactive dashboard that analyzes pizza sales da
 - Top & Bottom 5 Pizzas (Revenue, Quantity, Orders)
 - Interactive filters: Date, Size, Category
 
-## 🗂 Project Files Included
+## Project Files Included
 - Data:https://github.com/Saniya7861515/Pizza-Sales-Dashboard/blob/main/pizza_sales.csv
 - Dashboard:https://github.com/Saniya7861515/Pizza-Sales-Dashboard/blob/main/Pizza%20Sales%20Dashboard.pbix
 - SQL Queries:https://github.com/Saniya7861515/Pizza-Sales-Dashboard/blob/main/pizza_sales_queries.sql
