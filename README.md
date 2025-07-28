@@ -22,18 +22,18 @@ This project is a dynamic and interactive dashboard that analyzes pizza sales da
 - **Daily Trend:** Highest orders on **Thursday and Friday**
 - **Monthly Trend:** Peak orders in **July** and **May**
 
----## Sales Performance Analysis
+-#Sales Performance Analysis
 - **Top Selling Category:** Classic Pizzas
 - **Top Selling Size:** Large (45.89% of total revenue)
 
----###  Top 5 Pizzas by Revenue
+-#  Top 5 Pizzas by Revenue
 - Thai Chicken Pizza
 - Classic Deluxe Pizza
 - Barbecue Chicken Pizza
 - California Chicken Pizza
 - Spicy Italian Pizza
 
-#Bottom 5 Pizzas by Revenue
+-#Bottom 5 Pizzas by Revenue
 - Spinach Pesto Pizza
 - Mediterranean Pizza
 - Spinach Supreme Pizza
