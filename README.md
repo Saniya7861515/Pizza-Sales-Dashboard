@@ -23,8 +23,8 @@ This project is a dynamic and interactive dashboard that analyzes pizza sales da
 - **Monthly Trend:** Peak orders in **July** and **May**
 
 -**Sales Performance Analysis**:
-- **Top Selling Category:** Classic Pizzas
-- **Top Selling Size:** Large (45.89% of total revenue)
+- Top Selling Category: Classic Pizzas
+- Top Selling Size: Large (45.89% of total revenue)
 
 -**Top 5 Pizzas by Revenue**:
 - Thai Chicken Pizza
