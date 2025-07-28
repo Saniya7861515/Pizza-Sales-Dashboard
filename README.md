@@ -33,7 +33,7 @@ This project is a dynamic and interactive dashboard that analyzes pizza sales da
 - California Chicken Pizza
 - Spicy Italian Pizza
 
-### Bottom 5 Pizzas by Revenue
+#Bottom 5 Pizzas by Revenue
 - Spinach Pesto Pizza
 - Mediterranean Pizza
 - Spinach Supreme Pizza
