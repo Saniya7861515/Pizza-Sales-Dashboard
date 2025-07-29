@@ -63,7 +63,7 @@ This project is a dynamic and interactive dashboard that analyzes pizza sales da
 - Increase promotions during weekends and slow months
 - Reduce inventory of Brie Carre Pizza due to low sales
 
-##Conclusion
+## Conclusion
 This dashboard empowers decision-makers with clear insights into product sales, customer behavior, and seasonal trends. It aids in boosting revenue, optimizing inventory, and planning targeted promotions.
 
 ## About Me
