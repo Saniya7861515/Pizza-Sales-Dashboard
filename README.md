@@ -55,7 +55,8 @@ This project is a dynamic and interactive dashboard that analyzes pizza sales da
 - Dashboard:https://github.com/Saniya7861515/Pizza-Sales-Dashboard/blob/main/Pizza%20Sales%20Dashboard.pbix
 - SQL Queries:https://github.com/Saniya7861515/Pizza-Sales-Dashboard/blob/main/pizza_sales_queries.sql
 - SQL Queries docx:https://github.com/Saniya7861515/Pizza-Sales-Dashboard/blob/main/Pizza_Sales_SQL_Queries.docx
-- Images:<img width="1200" height="656" alt="Screenshot 2025-07-28 141451" src="https://github.com/user-attachments/assets/3086af09-c547-44ff-9aee-f0b872a0d765" />
+- Images: https://github.com/Saniya7861515/Pizza-Sales-Dashboard/blob/main/Screenshot%202025-09-20%20121158.png
+<img width="1200" height="656" alt="Screenshot 2025-07-28 141451" src="https://github.com/user-attachments/assets/3086af09-c547-44ff-9aee-f0b872a0d765" />
 <img width="1207" height="654" alt="Screenshot 2025-07-28 141522" src="https://github.com/user-attachments/assets/407e2b88-6bed-4c2c-9ddd-9bbf72e31a30" />
 
 ## Business Insights
